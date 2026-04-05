@@ -12,3 +12,40 @@ The project covers the complete data analytics lifecycle, including data cleanin
 * **Source:** https://github.com/mjahan11/HR-Employee-Attrition-Analysis-/blob/main/HR_Analytics.csv
 * **Source:** Contains 1,480 records of employee data, including demographics, job roles, compensation details, survey-based satisfaction scores, and historical tenure data to analyze workforce stability.
 * **Key Columns:** 
+
+## 🛠️ Tech Stack
+
+* **Data Processing:** Python (Pandas, NumPy)
+* **Database:** SQL Server (MySQL)
+* **Visualization:** Power BI
+* **Reporting:** Gamma (AI-powered presentation), Microsoft PowerPoint
+
+## 🚀 Project Steps
+
+### 1. Data Cleaning & EDA (Python)
+
+* Handled missing values and standardized categorical strings.
+* Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
+* Exported cleaned data to `.csv` for database ingestion.
+
+### 2. Database Management & Analysis (SQL)
+
+* Imported cleaned datasets into **SQL Server**.
+* Wrote complex queries to calculate:
+* **Discount Success Rate:** Analyzing which items sold best with promotions.
+* **Retention Metrics:** Segmenting customers based on frequency of purchase.
+* **Category Performance:** Identifying high-value inventory items.
+
+
+
+### 3. Data Visualization (Power BI)
+
+* Built a dynamic dashboard connecting directly to the SQL database.
+* Key visuals include:
+* **Sales Heatmap:** Regional distribution of purchases.
+* **KPI Cards:** Total Revenue, Average Order Value, and Discount Impact.
+* **Slicers:** Interactive filtering by Category and Season.
+
+
+
+## 📈 Key Results
