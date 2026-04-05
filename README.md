@@ -10,8 +10,8 @@ The project covers the complete data analytics lifecycle, including data cleanin
 
 # 📊 Dataset 
 * **Source:** https://github.com/mjahan11/HR-Employee-Attrition-Analysis-/blob/main/HR_Analytics.csv
-* **Source:** Contains 1,480 records of employee data, including demographics, job roles, compensation details, survey-based satisfaction scores, and historical tenure data to analyze workforce stability.
-* **Key Columns:** 
+* **Description:** Contains 1,480 records of employee data, including demographics, job roles, compensation details, survey-based satisfaction scores, and historical tenure data to analyze workforce stability.
+
 
 ## 🛠️ Tech Stack
 
