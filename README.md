@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project delivers an end-to-end analysis of customer shopping behavior, transforming raw retail data into meaningful and actionable insights. The primary objective is to identify purchasing patterns, evaluate the effectiveness of discounts, and segment customers based on their behavior.
+This project focuses on identifying the underlying factors that contribute to employee turnover (attrition) within an organization. By analyzing a dataset of 1,480 employees, the study leverages SQL to uncover patterns related to compensation, work-life balance, and career progression. The goal is to provide data-driven insights that help HR departments implement "Surgical Retention" strategies—targeting high-risk groups to reduce the multi-million dollar costs associated with recruitment and training.
 
 The project covers the complete data analytics lifecycle, including data cleaning and preprocessing using Python, in-depth exploratory and analytical queries using SQL, and the development of interactive dashboards in Power BI for clear and impactful visualization.
 
