@@ -16,7 +16,7 @@ The project covers the complete data analytics lifecycle, including data cleanin
 ## 🛠️ Tech Stack
 
 * **Data Processing:** Python (Pandas, NumPy)
-* **Database:** SQL Server (MySQL)
+* **Database:** SQL Server (SQL)
 * **Visualization:** Power BI
 * **Reporting:** Gamma (AI-powered presentation), Microsoft PowerPoint
 
