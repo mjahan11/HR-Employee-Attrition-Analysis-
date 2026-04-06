@@ -24,11 +24,8 @@ The project covers the complete data analytics lifecycle, including data cleanin
 
 ### 1. Data Cleaning & Preparation (Python)
 
-* Handled missing values and standardized categorical strings.
-* Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
-* Removing duplicates (Cleaning up noise).
-* Removing nulls (Fixing incomplete records).
-* Data Preprocessing (or Wrangling):
+* Removing duplicates.
+* Removing nulls.
 * Dropping columns (Deciding which data is actually useful).
 * Creating a numeric Attrition column (Changing the data format so the computer can read it).
 * Exported cleaned data to `.csv` for database ingestion.
