@@ -27,6 +27,12 @@ The project covers the complete data analytics lifecycle, including data cleanin
 * Handled missing values and standardized categorical strings.
 * Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
 * Exported cleaned data to `.csv` for database ingestion.
+* Data Cleaning:
+   *Removing duplicates (Cleaning up noise).
+   *Removing nulls (Fixing incomplete records).
+*Data Preprocessing (or Wrangling):
+   *Dropping columns (Deciding which data is actually useful).
+   *Creating a numeric Attrition column (Changing the data format so the computer can read it).
 
 ### 2. Database Management & Analysis (SQL)
 
