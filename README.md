@@ -22,7 +22,7 @@ The project covers the complete data analytics lifecycle, including data cleanin
 
 ## 🚀 Project Steps
 
-### 1. Data Cleaning & EDA (Python)
+### 1. Data Cleaning & Preparation (Python)
 
 * Handled missing values and standardized categorical strings.
 * Performed Exploratory Data Analysis (EDA) to detect outliers in purchase amounts.
