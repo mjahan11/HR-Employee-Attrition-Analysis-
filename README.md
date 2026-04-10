@@ -33,19 +33,11 @@ The project covers the complete data analytics lifecycle, including data cleanin
 ### 2. Database Management & Analysis (SQL)
 
 * Imported cleaned datasets into **SQL Server**.
-* Wrote complex queries to calculate:
-* **Discount Success Rate:** Analyzing which items sold best with promotions.
-* **Retention Metrics:** Segmenting customers based on frequency of purchase.
-* **Category Performance:** Identifying high-value inventory items.
 * Imported cleaned HR dataset into SQL Server for analysis
-Wrote SQL queries to analyze key attrition metrics, including:
-Attrition Rate Analysis: Calculated overall employee attrition rate to assess workforce turnover
-Department Attrition Analysis: Identified departments with the highest employee exits to detect high-risk areas
-Compensation Impact: Analyzed attrition across salary bands and job levels to evaluate the impact of pay on retention
-Overtime Analysis: Measured attrition differences between employees working overtime and those who do not
-Work-Life Balance Analysis: Evaluated how work-life balance levels influence employee attrition
-Job Satisfaction Analysis: Assessed the relationship between job satisfaction levels and employee turnover
-Experience & Tenure Analysis: Analyzed attrition trends across years at company and promotion gaps to understand career growth impact
+* Imported HR dataset into SQL Server and performed exploratory data analysis
+* Developed SQL queries to analyze attrition drivers including department, salary, overtime, job satisfaction, and work-life balance
+* Identified key patterns showing higher attrition among low-paid, early-career, and highly overworked employees
+
 
 
 
