@@ -32,7 +32,6 @@ The project covers the complete data analytics lifecycle, including data cleanin
 
 ### 2. Database Management & Analysis (SQL)
 
-* Imported cleaned datasets into **SQL Server**.
 * Imported cleaned HR dataset into SQL Server for analysis
 * Imported HR dataset into SQL Server and performed exploratory data analysis
 * Developed SQL queries to analyze attrition drivers including department, salary, overtime, job satisfaction, and work-life balance
