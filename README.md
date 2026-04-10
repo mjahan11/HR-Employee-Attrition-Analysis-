@@ -44,7 +44,7 @@ Exploratory Data Analysis was conducted to understand relationships between empl
 ### 3. Data Visualization (Power BI)
 
 * Built a dynamic dashboard connecting directly to the SQL database.
-* Key visualizations included:
+Key visualizations included:
 
 * EXECUTIVE OVERVIEW
 * ATTRITION Analysis
