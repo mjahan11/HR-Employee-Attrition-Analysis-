@@ -55,6 +55,14 @@ Key visualizations included:
 
 
 ## 📈 Key Results
+💡 Insight : 
+👉The organization experiences moderate attrition, primarily driven by employees in Research & Development and Sales departments with younger employees showing a higher tendency to leave.
+👉Attrition is primarily driven by overtime, low job satisfaction, poor work-life balance, and frequent business travel, highlighting employee burnout and engagement issues.
+👉Employees with longer commute distances, lower training exposure, and reduced job involvement show significantly higher attrition trends.
+👉 Attrition is strongly linked to compensation, with lower salary bands and lower job levels experiencing higher employee turnover.
+👉 Employees in early years or without recent promotions tend to leave more.
+## FINAL SUMMARY:
+To reduce attrition, the organization should focus on improving work-life balance, enhancing compensation, strengthening career growth opportunities, and increasing employee engagement, especially among early-career employees.
 
 
 ## Business Recommendations:
