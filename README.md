@@ -65,6 +65,10 @@ Key visualizations included:
 ## FINAL SUMMARY:
 To reduce attrition, the organization should focus on improving work-life balance, enhancing compensation, strengthening career growth opportunities, and increasing employee engagement, especially among early-career employees.
 
+## Report Pages Screenshots
+🔥 EXECUTIVE OVERVIEW:
+<img width="1034" height="659" alt="image" src="https://github.com/user-attachments/assets/f67a3522-d5a9-4cca-8784-a9f1abf90d5b" />
+
 
 ## Business Recommendations:
  🔷 Improve Work-Life Balance & Reduce Burnout :
