@@ -46,12 +46,12 @@ Exploratory Data Analysis was conducted to understand relationships between empl
 * Built a dynamic dashboard connecting directly to the SQL database.
 * Key visualizations included:
 
-·EXECUTIVE OVERVIEW
-.ATTRITION Analysis
-.WORK BEHAVIOR
-.Compensation Analysis
-.EXPERIENCE & GROWTH
-.FINAL SUMMARY
+* EXECUTIVE OVERVIEW
+* ATTRITION Analysis
+* WORK BEHAVIOR
+* Compensation Analysis
+* EXPERIENCE & GROWTH
+* FINAL SUMMARY
 
 
 ## 📈 Key Results
