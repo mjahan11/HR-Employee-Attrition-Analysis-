@@ -30,7 +30,8 @@ The project covers the complete data analytics lifecycle, including data cleanin
 * Creating a numeric Attrition column (Changing the data format so the computer can read it).
 * Exported cleaned data to `.csv` for database ingestion.
 
-### 2. Database Management & Analysis (SQL)
+### 2.  Exploratory Data Analysis (EDA)(SQL)
+Exploratory Data Analysis was conducted to understand relationships between employee attributes and attrition.
 
 * Imported cleaned HR dataset into SQL Server for analysis
 * Imported HR dataset into SQL Server and performed exploratory data analysis
