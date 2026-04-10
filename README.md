@@ -44,11 +44,14 @@ Exploratory Data Analysis was conducted to understand relationships between empl
 ### 3. Data Visualization (Power BI)
 
 * Built a dynamic dashboard connecting directly to the SQL database.
-* Key visuals include:
-* **Sales Heatmap:** Regional distribution of purchases.
-* **KPI Cards:** Total Revenue, Average Order Value, and Discount Impact.
-* **Slicers:** Interactive filtering by Category and Season.
+* Key visualizations included:
 
+·EXECUTIVE OVERVIEW
+.ATTRITION Analysis
+.WORK BEHAVIOR
+.Compensation Analysis
+.EXPERIENCE & GROWTH
+.FINAL SUMMARY
 
 
 ## 📈 Key Results
