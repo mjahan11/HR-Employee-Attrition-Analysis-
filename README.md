@@ -81,10 +81,6 @@ To reduce attrition, the organization should focus on improving work-life balanc
 🔥 EXPERIENCE & GROWTH:
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/e34125ea-5c67-4c4c-9c34-9eeb71cc42b9" />
 
-🔥 FINAL SUMMARY: 
-<img width="975" height="165" alt="image" src="https://github.com/user-attachments/assets/b5c6d88b-85c6-4d48-8f2c-4fc261478ca9" />
-
-
 
 ## Business Recommendations:
  🔷 Improve Work-Life Balance & Reduce Burnout :
